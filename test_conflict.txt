@@ -1,1 +1,2 @@
 Test thu conflict 1
+Test thu conflict 2
