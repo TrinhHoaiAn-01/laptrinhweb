@@ -1,0 +1,2 @@
+Demo merge tren nhanh test_merge.
+Noi dung nay duoc them tu nhanh test_merge de gop vao master.
