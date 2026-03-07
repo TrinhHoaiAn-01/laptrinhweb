@@ -1,1 +1,2 @@
-Dong chung: Noi dung duoc sua tren nhanh master.
+Dong chung: Da xu ly conflict giua nhanh test_conflict va master.
+Ket qua: giu lai noi dung tong hop sau khi resolve conflict.
