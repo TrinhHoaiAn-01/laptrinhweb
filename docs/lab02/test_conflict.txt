@@ -1,1 +1,1 @@
-Dong chung: Phien ban goc de tao conflict.
+Dong chung: Noi dung duoc sua tren nhanh test_conflict.
