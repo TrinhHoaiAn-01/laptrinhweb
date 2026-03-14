@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Chi tiết user | Lập trình web</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+    <main class="app-shell">
+        <header class="browser-top">
+            <div class="browser-titlebar">
+                <div class="browser-tab">Lập trình web</div>
+                <div class="browser-controls">
+                    <span class="browser-dot"></span>
+                    <span class="browser-dot"></span>
+                    <span class="browser-dot is-active"></span>
+                </div>
+            </div>
+            <div class="browser-toolbar">
+                <div class="toolbar-actions" aria-hidden="true">
+                    <span>&larr;</span>
+                    <span>&rarr;</span>
+                    <span>&#8635;</span>
+                </div>
+                <div class="address-bar">
+                    <span class="address-icon" aria-hidden="true"></span>
+                    <span>http://php.local</span>
+                </div>
+            </div>
+        </header>
+
+        <section class="content">
+            <nav class="top-nav">
+                <a href="index.html">Home</a> | <strong>Đăng xuất</strong>
+            </nav>
+
+            <div class="page-body">
+                <section class="page-panel">
+                    <h1 class="page-title">Màn hình chi tiết</h1>
+
+                    <div class="detail-grid">
+                        <div class="detail-label">Username</div>
+                        <div class="detail-value" data-detail="username">test1</div>
+
+                        <div class="detail-label">Email</div>
+                        <div class="detail-value" data-detail="email">test1@gmail.com</div>
+                    </div>
+
+                    <div class="form-actions">
+                        <a class="button" data-edit-link href="update.html?id=11">Chỉnh sửa</a>
+                    </div>
+                </section>
+            </div>
+
+            <footer class="footer-bar">Lập trình web @01/2024</footer>
+        </section>
+    </main>
+
+    <script src="js/app.js"></script>
+</body>
+</html>
